@@ -2,8 +2,8 @@
 
 This project ingests the NYC Taxi and Limousine yellow dataset from Azure Blob Storage, summarizes the data by calculating mean, sum of total amounts, and sum of passenger counts aggregated by payment type, year, and month, and outputs the results in both CSV and Parquet formats.
 
-### Updated By: Olivia Gomez
-### Updated On: 5/21/2024
+Updated By: Olivia Gomez
+Updated On: 5/21/2024
 
 ## Dependencies
 
